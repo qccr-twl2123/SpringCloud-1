@@ -29,6 +29,7 @@
 		<module>zuul</module>
 		<module>hello</module>
 		<module>ribbon</module>
+		<module>hystrix-dashboard</module>
 	</modules>
 
 	<dependencyManagement>
