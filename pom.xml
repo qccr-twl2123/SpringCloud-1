@@ -33,6 +33,7 @@
 		<module>config-server</module>
 		<module>rabbitmq</module>
 		<module>stream</module>
+		<module>zipkin</module>
 	</modules>
 
 	<dependencyManagement>
